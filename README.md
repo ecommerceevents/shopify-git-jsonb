@@ -1,0 +1,1 @@
+# shopify-git-jsonb
